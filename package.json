@@ -10,7 +10,7 @@
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
     "react-move": "^2.9.1",
-    "react-scripts": "^3.4.1",
+    "react-scripts": "^5.0.1",
     "react-three-renderer": "^3.2.4",
     "react-typist": "^2.0.5",
     "three": "^0.89.0",
